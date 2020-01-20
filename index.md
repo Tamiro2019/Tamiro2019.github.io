@@ -13,8 +13,9 @@
 
 
 [Swift Heat Transfer by Fast-Forward Driving in Open Quantum Systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126)
-<img src="images/Heat_Transfer.jpeg?raw=true"/>
-
+<kbd>
+  <img src="images/Heat_Transfer.jpeg?raw=true"/>
+</kbd>
 
 
 ---
