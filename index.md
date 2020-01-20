@@ -2,31 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Impact of Weather on Business Engagement](https://business-and-weather.herokuapp.com)
+<img src="images/business-weather-image.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Physics (Peer-Reviewed)
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+[Swift Heat Transfer by Fast-Forward Driving in Open Quantum Systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126)
+<img src="images/Heat_Transfer.jpeg?raw=true"/>
 
 
 
