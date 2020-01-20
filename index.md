@@ -8,6 +8,7 @@
 <img src="images/business-weather-image.jpg?raw=true"/>
 
 
+___
 
 ### Quantum Physics (Peer-Reviewed)
 
