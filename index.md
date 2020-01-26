@@ -10,6 +10,8 @@ ___
 ( [App](https://business-and-weather.herokuapp.com) | [Github](https://github.com/Tamiro2019/Business-and-Weather) )
 [<img src="images/business-weather-image.jpg?raw=true"/>](https://business-and-weather.herokuapp.com)
 
+### Unsupervised Learning of Quantum States in Diamond
+<img src="images/Coming_Soon.jpg?raw=true"/>
 
 ___
 
@@ -26,4 +28,24 @@ ___
 ### Quantum Data Manager 
 ( [Github](https://github.com/Tamiro2019/Quantum-Data-Manager) )
 [<img src="images/Quantum_2.jpg?raw=true"/>](https://github.com/Tamiro2019/Quantum-Data-Manager)
+
+___
+
+### Integrability and Dark States in an Anisotropic Central Spin Model
+<img src="images/Coming_Soon.jpg?raw=true"/>
+
+___
+
+### Stable Dark States in Perturbed Central Spin Systems
+<img src="images/Coming_Soon.jpg?raw=true"/>
+
+___
+
+### Efficient Cooling of Diamond Surfaces Using a Qubit
+<img src="images/Coming_Soon.jpg?raw=true"/>
+
+___
+
+### Critical Behavior of a Driven-Dissipative System
+<img src="images/Coming_Soon.jpg?raw=true"/>
 
