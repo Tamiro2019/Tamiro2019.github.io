@@ -2,20 +2,9 @@
 
 ---
 
-## Data Science
-
-___
-
 ### The Impact of Weather on Business Engagement 
 ( [App](https://business-and-weather.herokuapp.com) | [Github](https://github.com/Tamiro2019/Business-and-Weather) )
 [<img src="images/business-weather-image.jpg?raw=true"/>](https://business-and-weather.herokuapp.com)
-
-### Unsupervised Learning of Quantum States in Diamond
-<img src="images/Coming_Soon.jpg?raw=true"/>
-
-___
-
-## Quantum Physics 
 
 ___
 
@@ -34,6 +23,10 @@ ___
 ### Integrability and Dark States in an Anisotropic Central Spin Model
 <img src="images/Coming_Soon.jpg?raw=true"/>
 
+___
+
+### Unsupervised Learning of Quantum States in Diamond
+<img src="images/Coming_Soon.jpg?raw=true"/>
 ___
 
 ### Stable Dark States in Perturbed Central Spin Systems
