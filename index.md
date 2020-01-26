@@ -22,7 +22,7 @@ ___
 ### Quantum Data Manager 
 ([Github](https://github.com/Tamiro2019/Quantum-Data-Manager))
 <kbd>
-  <img src="images/Quantum_1.jpeg?raw=true"/>
+  <img src="images/Quantum_2.jpg?raw=true"/>
 </kbd>
 
 
