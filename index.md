@@ -21,6 +21,7 @@ ___
 ___
 
 ### Integrability and Dark States in an Anisotropic Central Spin Model
+( [arXiv](https://arxiv.org/abs/2001.10008) )
 <img src="images/Coming_Soon.jpg?raw=true"/>
 
 ___
