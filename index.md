@@ -12,6 +12,12 @@ ___
 ( [PRA](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126) | [arXiv](https://arxiv.org/abs/1902.05964) )
 [<img src="images/Heat_Transfer.jpeg?raw=true"/>](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126)
 
+---
+
+### Recommender System for Public Address Speakers
+[Github](https://github.com/Tamiro2019/Speaker_Recommender)
+[<img src="images/speaker.jpg?raw=true"/>](https://github.com/Tamiro2019/Speaker_Recommender)
+
 ___
 
 ### Quantum Data Manager 
