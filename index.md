@@ -37,16 +37,6 @@ ___
 
 ___
 
-### Stable Dark States in Perturbed Central Spin Systems
-<img src="images/Coming_Soon.jpg?raw=true"/>
-
-___
-
-### Efficient Cooling of Diamond Surfaces Using a Qubit
-<img src="images/Coming_Soon.jpg?raw=true"/>
-
-___
-
 ### Critical Behavior of a Driven-Dissipative System
 <img src="images/Coming_Soon.jpg?raw=true"/>
 
