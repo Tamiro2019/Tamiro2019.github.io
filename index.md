@@ -16,7 +16,7 @@ ___
 
 ### Recommender System for Public Address Speakers
 [Github](https://github.com/Tamiro2019/Speaker_Recommender)
-[<img src="images/speaker.jpg?raw=true"/>](https://github.com/Tamiro2019/Speaker_Recommender)
+[<img src="images/speakers.jpg?raw=true"/>](https://github.com/Tamiro2019/Speaker_Recommender)
 
 ___
 
