@@ -1,18 +1,12 @@
 # Portfolio
 
----
-
-### The Impact of Weather on Business Engagement 
-( [App](https://business-and-weather.herokuapp.com) | [Github](https://github.com/Tamiro2019/Business-and-Weather) )
-[<img src="images/business-weather-image.jpg?raw=true"/>](https://business-and-weather.herokuapp.com)
-
 ___
 
-### Swift Heat Transfer by Fast-Forward Driving in Open Quantum Systems (Published in Physical Review A)
-( [PRA](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126) | [arXiv](https://arxiv.org/abs/1902.05964) )
-[<img src="images/Heat_Transfer.jpeg?raw=true"/>](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126)
+### SafeSing: Leveraging AI to balance your technique 
+( [Github](https://github.com/Tamiro2019/SafeSing) )
+[<img src="images/safesing.jpg?raw=true"/>](https://github.com/Tamiro2019/SafeSing)
 
----
+___
 
 ### Recommender System for Public Address Speakers
 ( [Github](https://github.com/Tamiro2019/Speaker_Recommender) )
@@ -26,17 +20,25 @@ ___
 
 ___
 
-### Integrability and Dark States in an Anisotropic Central Spin Model
-( [arXiv](https://arxiv.org/abs/2001.10008) )
-[<img src="images/schematic.pdf?raw=true"/>](https://arxiv.org/abs/2001.10008)
+### Swift Heat Transfer by Fast-Forward Driving in Open Quantum Systems (Published in Physical Review A)
+( [PRA](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126) | [arXiv](https://arxiv.org/abs/1902.05964) )
+[<img src="images/Heat_Transfer.jpeg?raw=true"/>](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012126)
 
 ___
 
-### Unsupervised Learning of Quantum States in Diamond
-<img src="images/Coming_Soon.jpg?raw=true"/>
+### Persistent Dark States in Anisotropic Central Spin Models (Published in Scientific Reports)
+( [Sci Rep](https://doi.org/10.1038/s41598-020-73015-1) | [arXiv](https://arxiv.org/pdf/2005.13556.pdf) )
+[<img src="images/Persistent.pdf?raw=true"/>](https://doi.org/10.1038/s41598-020-73015-1)
 
 ___
 
-### Critical Behavior of a Driven-Dissipative System
-<img src="images/Coming_Soon.jpg?raw=true"/>
+### Integrability and Dark States in an Anisotropic Central Spin Model (Published in Physical Review Research)
+( [PRR](https://doi.org/10.1103/PhysRevResearch.2.032052) | [arXiv](https://arxiv.org/abs/2001.10008) )
+[<img src="images/Integrability.pdf?raw=true"/>](https://doi.org/10.1103/PhysRevResearch.2.032052)
+
+___
+
+### The Impact of Weather on Business Engagement 
+( [App](https://business-and-weather.herokuapp.com) | [Github](https://github.com/Tamiro2019/Business-and-Weather) )
+[<img src="images/business-weather-image.jpg?raw=true"/>](https://business-and-weather.herokuapp.com)
 
