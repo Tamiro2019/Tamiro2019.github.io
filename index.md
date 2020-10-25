@@ -3,8 +3,13 @@
 ___
 
 ### SafeSing: Leveraging AI to balance your technique 
-( [Github](https://github.com/Tamiro2019/SafeSing) )
+( [App](http://18.232.171.164/) | [Github](https://github.com/Tamiro2019/SafeSing) )
 [<img src="images/sslogo.png?raw=true"/>](https://github.com/Tamiro2019/SafeSing)
+___
+
+### The Impact of Weather on Business Engagement 
+( [App](https://business-and-weather.herokuapp.com) | [Github](https://github.com/Tamiro2019/Business-and-Weather) )
+[<img src="images/business-weather-image.jpg?raw=true"/>](https://business-and-weather.herokuapp.com)
 
 ___
 
@@ -36,9 +41,4 @@ ___
 ( [PRR](https://doi.org/10.1103/PhysRevResearch.2.032052) | [arXiv](https://arxiv.org/abs/2001.10008) )
 [<img src="images/integrability.jpeg?raw=true"/>](https://doi.org/10.1103/PhysRevResearch.2.032052)
 
-___
-
-### The Impact of Weather on Business Engagement 
-( [App](https://business-and-weather.herokuapp.com) | [Github](https://github.com/Tamiro2019/Business-and-Weather) )
-[<img src="images/business-weather-image.jpg?raw=true"/>](https://business-and-weather.herokuapp.com)
 
