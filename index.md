@@ -28,13 +28,13 @@ ___
 
 ### Persistent Dark States in Anisotropic Central Spin Models (Published in Scientific Reports)
 ( [Sci Rep](https://doi.org/10.1038/s41598-020-73015-1) | [arXiv](https://arxiv.org/pdf/2005.13556.pdf) )
-[<img src="images/Persistent.pdf?raw=true"/>](https://doi.org/10.1038/s41598-020-73015-1)
+[<img src="images/Persistent.jpeg?raw=true"/>](https://doi.org/10.1038/s41598-020-73015-1)
 
 ___
 
 ### Integrability and Dark States in an Anisotropic Central Spin Model (Published in Physical Review Research)
 ( [PRR](https://doi.org/10.1103/PhysRevResearch.2.032052) | [arXiv](https://arxiv.org/abs/2001.10008) )
-[<img src="images/Integrability.pdf?raw=true"/>](https://doi.org/10.1103/PhysRevResearch.2.032052)
+[<img src="images/schematic.pdf?raw=true"/>](https://doi.org/10.1103/PhysRevResearch.2.032052)
 
 ___
 
