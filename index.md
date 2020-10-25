@@ -34,7 +34,7 @@ ___
 
 ### Integrability and Dark States in an Anisotropic Central Spin Model (Published in Physical Review Research)
 ( [PRR](https://doi.org/10.1103/PhysRevResearch.2.032052) | [arXiv](https://arxiv.org/abs/2001.10008) )
-[<img src="images/schematic.pdf"/>](https://doi.org/10.1103/PhysRevResearch.2.032052)
+[<img src="images/integrability.jpeg?raw=true"/>](https://doi.org/10.1103/PhysRevResearch.2.032052)
 
 ___
 
