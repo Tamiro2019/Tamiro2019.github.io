@@ -4,7 +4,7 @@ ___
 
 ### SafeSing: Leveraging AI to balance your technique 
 ( [Github](https://github.com/Tamiro2019/SafeSing) )
-[<img src="images/safesing.jpg?raw=true"/>](https://github.com/Tamiro2019/SafeSing)
+[<img src="images/sslogo.png?raw=true"/>](https://github.com/Tamiro2019/SafeSing)
 
 ___
 
